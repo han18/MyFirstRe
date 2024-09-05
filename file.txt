@@ -2,3 +2,5 @@ This a a good pratice
 Hello World
 
 This is a file in the main branch.
+
+This is an edit in the my-new-master
