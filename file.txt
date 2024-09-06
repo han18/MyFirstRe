@@ -1,4 +1,12 @@
 This a a good pratice
 Hello World
 
+<<<<<<< HEAD
 This is th new file to see the new changes
+=======
+This is a file in the main branch.
+
+This is an edit in the my-new-master
+
+This is to reflect the new changes on my-new-branch
+>>>>>>> my-new-branch
